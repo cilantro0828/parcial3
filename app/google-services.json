@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "453558518857",
+    "project_id": "easycreen-68fb9",
+    "storage_bucket": "easycreen-68fb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453558518857:android:c454f7cc0b2702a52aab98",
+        "android_client_info": {
+          "package_name": "com.example.easycreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9yodumcO9NmF7spCBFmw3-HTeZOwKJM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
